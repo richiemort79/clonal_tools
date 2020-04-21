@@ -4,6 +4,8 @@ ImageJ toolset for the anlysis of clonal patterns
 ClonalTools are a set of macros designed for the analysis of mosaic patterns. The macros correct for the effects of random
 clumping using the formula 1/(1-p) devised by Roach (1968) in the way outlined by West (1975, 1976) and West et al (1997).
 
+Clonal Analysis Tools relies on BinaryFilterReconstruct_.class written by Gabriel Landini. Install Gabriel Landini's Morphology Collection from http://www.dentistry.bham.ac.uk/landinig/software/software.html, download clonaltools_0.2a.txt.zip and extract to ImageJ/Macros/Toolsets folder. 
+
 References:
 
 Mort RL. Quantitative analysis of patch patterns in mosaic tissues withClonalTools software. J Anat. 2009 Dec;215(6):698-704.
